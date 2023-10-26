@@ -1,0 +1,120 @@
+{
+    "data": [
+      {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When did the last episode of &quot;Futurama&quot; air?",
+      "correct_answer": "September 4, 2013",
+      "incorrect_answers": [
+      "December 25, 2010",
+      "March 28, 1999",
+      "On Going"
+      ]
+      },
+      {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many countries border Kyrgyzstan?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+      "3",
+      "1",
+      "6"
+      ]
+      },
+      {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the server hosting industry IaaS stands for...",
+      "correct_answer": "Infrastructure as a Service",
+      "incorrect_answers": [
+      "Internet as a Service",
+      "Internet and a Server",
+      "Infrastructure as a Server"
+      ]
+      },
+      {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What year was the game Dishonored released?",
+      "correct_answer": "2012",
+      "incorrect_answers": [
+      "2011",
+      "2008",
+      "2013"
+      ]
+      },
+      {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The protagonist in the game &quot;Cave Story&quot; is named",
+      "correct_answer": "Quote",
+      "incorrect_answers": [
+      "Kazuma",
+      "Curly",
+      "Arthur"
+      ]
+      },
+      {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Lego Group was founded in 1932.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+      "False"
+      ]
+      },
+      {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Animal Crossing, who is the manager of the town shop?",
+      "correct_answer": "Tom Nook",
+      "incorrect_answers": [
+      "Mr. Resetti",
+      "Gracie",
+      "K.K. Slider"
+      ]
+      },
+      {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is credited with having created the world&#039;s first video game Easter Egg?",
+      "correct_answer": "Warren Robinett",
+      "incorrect_answers": [
+      "Julius Smith",
+      "Will Crowther",
+      "Don Woods"
+      ]
+      },
+      {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+      "False"
+      ]
+      },
+      {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the first human being in Norse mythology?",
+      "correct_answer": "Ask",
+      "incorrect_answers": [
+      "Asmund",
+      "Ake",
+      "Asger"
+      ]
+      }
+      ]
+  }
